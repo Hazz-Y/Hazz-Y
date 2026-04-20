@@ -106,5 +106,5 @@ I am a **Robotics and Embedded Systems enthusiast** currently pursuing my degree
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=818CF8&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=818CF8&height=150&section=footer&text=Let's%20Build%20the%20Future%20%E2%9A%A1&fontSize=30&fontAlignY=70" alt="Footer" />
 </p>
