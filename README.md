@@ -3,7 +3,7 @@
 <h3 align="center">Electronics & Computer Engineering @ VIT Chennai | Tech Founder | AI & Robotics Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Engineering+%40+VIT;Founder+%26+Team+Lead+%40+Namo+Nirvana;Project+Lead+%40+ISRO+Robotics+Challenge;AI%2C+Robotics+%26+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Engineering+%40+VIT;Founder+%26+Team+Lead+%40+Namo+Nirvana;Project+Lead+%40+ISRO+Robotics+Challenge;AI%2C+Robotics+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,14 +15,10 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hazz-Y&label=Profile%20Views&color=818CF8&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
-I am a passionate technologist and innovator currently pursuing my degree in **Electronics and Computer Engineering at Vellore Institute of Technology (VIT) Chennai** (2023–2027). I bridge the gap between software development, artificial intelligence, and hardware systems.
+I am a **Robotics and Embedded Systems enthusiast** currently pursuing my degree in **Electronics and Computer Engineering at Vellore Institute of Technology (VIT) Chennai** (2023–2027).
 
 - 🔭 **Current Focus:** Building impactful projects integrating AI, Web Technologies, and Robotics.
 - 🚀 **Startups & Leadership:** Founder & Team Lead at **Namo Nirvana**, and Management Lead at **CloudOps VITC**.
@@ -58,20 +54,42 @@ I am a passionate technologist and innovator currently pursuing my degree in **E
 
 ### 🛠️ Tech Stack & Skills
 
-#### Development & AI
+#### AI, Machine Learning & Computer Vision
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
 
-#### Hardware & Systems
+#### Hardware, Robotics & Embedded Systems
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Embedded_Systems-FF9900?style=for-the-badge&logo=arduino&logoColor=white" alt="Embedded" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Robotics-E34F26?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics" />
+</p>
+
+#### Software & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### Tools & IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
 ---
