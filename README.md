@@ -1,110 +1,252 @@
-<h1 align="center">Hi 👋, I'm Harsh Yadav</h1>
+<div>
+<table border="0" width="100%" cellspacing="0" cellpadding="12">
+<tr>
+<td valign="middle" width="72%">
 
-<h3 align="center">Electronics & Computer Engineering @ VIT Chennai | Tech Founder | AI & Robotics Enthusiast</h3>
+# **HARSH YADAV**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Electronics+%26+Computer+Engineering+%40+VIT;Founder+%26+Team+Lead+%40+Namo+Nirvana;Project+Lead+%40+ISRO+Robotics+Challenge;AI%2C+Robotics+%26+Embedded+Systems+Enthusiast" alt="Typing SVG" />
-</p>
+### AI Engineer &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; Embedded Systems
 
-<p align="center">
-  <a href="https://linkedin.com/in/harsh0108yadav" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:harsh01yadav08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</td>
+<td align="right" valign="middle" width="28%">
 
----
+![16 Patents](https://img.shields.io/badge/16_Patents-4F46E5?style=for-the-badge&logoColor=white)<br/><br/>
+![SIH '25 Finalist](https://img.shields.io/badge/SIH_'25_Finalist-059669?style=for-the-badge)<br/><br/>
+![Techgium Top 7](https://img.shields.io/badge/Techgium_Top_7-DC2626?style=for-the-badge)
 
-### 👨‍💻 About Me
-I am a **Robotics and Embedded Systems enthusiast** currently pursuing my degree in **Electronics and Computer Engineering at Vellore Institute of Technology (VIT) Chennai** (2023–2027).
-
-- 🔭 **Current Focus:** Building impactful projects integrating AI, Web Technologies, and Robotics.
-- 🚀 **Startups & Leadership:** Founder & Team Lead at **Namo Nirvana**, and Management Lead at **CloudOps VITC**.
-- 💬 Ask me about **Full-Stack Development, Embedded Systems, and AI Innovations**.
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-### 💼 Professional Experience
+B.Tech student at VIT Chennai, building at the intersection of autonomous robotics, edge AI, and assistive technology platforms.
 
-- **Founder & Team Lead** | *Namo Nirvana* (Jan 2024 – Apr 2025)
-- **Software Developer Intern** | *Algo Technologies* (May 2025 – Jun 2025)
-- **Product Development Intern** | *SpectoV* (May 2025 – Jul 2025)
-- **AI, Robotics & Embedded System Intern** | *STEMTEC* (Jun 2025 – Jul 2025)
-- **Project Team Lead** | *ISRO Robotics Challenge '24* (Dec 2023 – May 2024)
-- **Management Lead** | *CloudOps VITC* (Jul 2025 – Mar 2026)
-- **Ecommerce Manager** | *TAGETES* (Aug 2021 – Aug 2023)
+I engineer EKF-fused multi-sensor localization stacks for indoor autonomous platforms, deploy quantized CV models on resource-constrained edge hardware, and architect real-time sign language recognition systems from dataset curation through on-device inference. My work spans ROS2-based SLAM pipelines, assistive wearables with RGB-D and IMU fusion, autonomous surveillance drones, and full-stack MERN web applications — each built to function under real hardware constraints and production latency requirements.
+
+**16 Patents Filed/Issued &nbsp;·&nbsp; ₹6.45L+ in Research Grants &nbsp;·&nbsp; SIH '25 National Finalist &nbsp;·&nbsp; Techgium® Top 7 / 62K+ &nbsp;·&nbsp; IRoC Top ~100 / 5K**
 
 ---
 
-### 🏆 Awards & Achievements
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<tr>
+<th width="33%">Robotics & Perception</th>
+<th width="33%">AI & Edge Systems</th>
+<th width="34%">Full-Stack & Embedded</th>
+</tr>
+<tr>
+<td valign="top">
 
-- 🥇 **Student Startup Venture (SSV) Grant** (Feb 2024) - *Awarded by V NEST (VIT Chennai Startup & Research Foundation)*
-- 🏆 **Ingenium Inter-College Hackathon Winner** (Feb 2024) - *Pragyan '24 at National Institute of Technology, Tiruchirappalli (NIT Trichy)*
+SLAM (SLAM Toolbox) & loop-closure tuning<br/>
+EKF multi-sensor fusion at production Hz<br/>
+ROS2 architecture & driver integration<br/>
+Visual-Inertial Odometry (VINS-Fusion)<br/>
+LiDAR, RGB-D & IMU sensor fusion<br/>
+Autonomous navigation & obstacle avoidance<br/>
+Rocker-bogie & multi-terrain rover design<br/>
+Quadcopter SLAM & GPS-denied navigation
+
+</td>
+<td valign="top">
+
+On-device CV: YOLO, MediaPipe, pose estimation<br/>
+Model quantization for edge inference<br/>
+Sign language recognition (ISL/ASL) pipelines<br/>
+Dataset curation & training pipeline design<br/>
+Real-time inference on Jetson & Raspberry Pi<br/>
+Scene awareness & contextual AI systems<br/>
+Assistive wearable AI architecture<br/>
+Audio + vision multimodal system design
+
+</td>
+<td valign="top">
+
+MERN stack production web applications<br/>
+RESTful API design with Express.js<br/>
+React component architecture & state design<br/>
+MongoDB schema & backend logic<br/>
+NVIDIA Jetson Orin & Raspberry Pi deployment<br/>
+ESP32 & Arduino embedded firmware<br/>
+Micro-OLED HUD & wearable hardware integration<br/>
+Sensor data pipelines & real-time processing
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,ros,raspberrypi,arduino,linux&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,docker,typescript,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`ROS2` &nbsp; `SLAM` &nbsp; `EKF Fusion` &nbsp; `YOLO` &nbsp; `MediaPipe` &nbsp; `VIO` &nbsp; `VINS-Fusion` &nbsp; `Edge AI` &nbsp; `ISL/ASL` &nbsp; `Sensor Fusion` &nbsp; `PyTorch` &nbsp; `OpenCV` &nbsp; `MERN`
+
+</div>
+
+---
+
+<div align="center">
+
+### Recognition
+
+</div>
+
+<table border="1" cellspacing="0" cellpadding="10" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**LTTS TECHgium®** &nbsp; ![Top 7 / 62K+](https://img.shields.io/badge/Top_7_/_62K+-4F46E5?style=flat-square)<br/>
+**Smart India Hackathon 2025** &nbsp; ![National Finalist](https://img.shields.io/badge/National_Finalist-3B82F6?style=flat-square)<br/>
+**ISRO Robotics Challenge '25** &nbsp; ![Top ~100 / 5K](https://img.shields.io/badge/Top_~100_/_5K-7C3AED?style=flat-square)<br/>
+**ISRO Robotics Challenge '24** &nbsp; ![Project Lead](https://img.shields.io/badge/Project_Lead-6D28D9?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**Schrödinger's Cat Hackathon (SRM AP)** &nbsp; ![1st Runner-Up · Best Hardware](https://img.shields.io/badge/1st_Runner--Up_·_Best_Hardware-F59E0B?style=flat-square)<br/>
+**E-Codeathon 2026 (VIT Chennai)** &nbsp; ![Winner](https://img.shields.io/badge/Winner-10B981?style=flat-square)<br/>
+**Innovate for Impact** &nbsp; ![1st Place](https://img.shields.io/badge/1st_Place-10B981?style=flat-square)<br/>
+**Pragyan '24 — Ingenium Hackathon (NIT Trichy)** &nbsp; ![1st Prize](https://img.shields.io/badge/1st_Prize-10B981?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📚 Publications
+<div align="center">
 
-- 📖 **[Advancing Smart Parking Systems: A Polyline-Based Methodology for Adaptive Space Detection](https://link.springer.com/chapter/10.1007/978-3-032-14041-8_28)** 
-  *Published in Springer Nature (Jan 2026)*
+### Research & Intellectual Property
+
+</div>
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
+
+**15 Utility Patents** Filed/Issued across AI-driven systems, computer vision, embedded technologies, and assistive hardware
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+**1 Design Patent** Filed for the Terrain Scout multi-operational defence rover
+
+</td>
+<td width="30%" align="center" valign="middle">
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9922--9775-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9922-9775)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><strong>📋 All 16 Patents (click to expand)</strong></summary>
+<br/>
+
+| # | Title |
+|:-:|:------|
+| 01 | [An Infant Cradle Device](https://drive.google.com/file/d/1x4j-qRUYNtfkJXBzbUsvAQN82K_yCkIY/view) |
+| 02 | [Retrofittable Dip-Type Multi-Spectral Sensor System for Real-Time Food Analysis](https://drive.google.com/file/d/1N6Bywqj0KwB8cBrOe5HQxFGtv-VveSKT/view) |
+| 03 | [Wearable System for Predicting & Managing Body-Focused Repetitive Behavior (BFRB)](https://drive.google.com/file/d/15Zzb3sPhcQmLw4M2nXiuQxDJyM5aTv2q/view) |
+| 04 | [System and Method for Selective Audio Capture and Processing](https://drive.google.com/file/d/1LGIMFz0GtB7UJJ4WwqIl8xVTw_MsDo3f/view) |
+| 05 | [System and Method for Radiation Mapping in Hazardous Environments](https://drive.google.com/file/d/1a5IAwgrdtPIw4ENmnKA9AtVdaMh0zgYa/view) |
+| 06 | [Apparatus and Method for Automatic Medicine Dispensing](https://drive.google.com/file/d/1ZgNP9iV1C8o7dMSKctsg9uKn7t9LwGf8/view) |
+| 07 | [Navigation Assistance System for the Visually Impaired](https://drive.google.com/file/d/16YlZeFuseiz4nhdfkjdVB8TN0GOiq_x2/view) |
+| 08 | [System and Method for Deploying an Aerial Communication Network](https://drive.google.com/file/d/1DtkaXDcbHD0A29tmIxCDL9m4NSXCqzl7/view) |
+| 09 | [System to Circulate Information in Educational Campus](https://drive.google.com/file/d/1XqNCiN6B8IKw2QaiiVacWpUOEbsNE3d1/view) |
+| 10 | [System and Method of Fabric Durability Assessment](https://drive.google.com/file/d/1GDThuhus87DviBFfW3nxPA-Y0vN9weZq/view) |
+| 11 | [Autonomous Detection, Extraction & Treatment of Foam from Water Surface](https://drive.google.com/file/d/1f-EWsGTJEfNv_RtWHN8OwDmBvOOMzuWV/view) |
+| 12 | [Modular Smart Eyewear for Breathing Assistance and Temple Massage](https://drive.google.com/file/d/1ESrxrJUxhK6Um3-iuE6ac3vC9YdBowwf/view) |
+| 13 | [Retrofittable Vehicle Control System for Command-Based Operation](https://drive.google.com/file/d/1_FlcTPJFMtgnUWwJKkY8KA5cLLKrrlNgB/view) |
+| 14 | [Calibration Apparatus and Method Thereof](https://drive.google.com/file/d/18KsxeTLleVaidtA6TL7iIixa_EddCOSA/view) |
+| 15 | [Adaptive Modular Robotic System for Search and Rescue Operations](https://drive.google.com/file/d/1d4tNxUDk2urr9n-3_pSt5_lPuCAXCs5t/view) |
+| 16 | [Defence Rover: Terrain Scout *(Design Patent)*](https://drive.google.com/file/d/1qqsEQgbDlMflW9pmhXs7p6vs29bn_GGG/view) |
+
+</details>
+
+---
+
+<table border="1" cellspacing="0" cellpadding="12" width="100%">
+<tr>
+<th width="50%">Building</th>
+<th width="50%">Exploring</th>
+</tr>
+<tr>
+<td valign="top">
+
+- ISL/ASL real-time recognition for on-device wearables
+- VORTEX — autonomous multi-terrain rover platform (ROS2)
+- SPARC — edge AI assistive wearable for deaf/mute communities
+- Autonomous surveillance & delivery drone systems
+- EKF-fused SLAM for GPS-denied indoor navigation
+
+</td>
+<td valign="top">
+
+- VINS-Fusion + MAVLink pose injection for PX4 drones
+- ONNX export for cross-platform edge deployment
+- Transformer-based architectures for sign language sequence modeling
+- Multi-spectral sensing pipelines for real-time analysis
+- LiDAR-camera calibration for high-resolution mapping
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-#### AI, Machine Learning & Computer Vision
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv8" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-
-#### Hardware, Robotics & Embedded Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Robotics-E34F26?style=for-the-badge&logo=ros&logoColor=white" alt="Robotics" />
-</p>
-
-#### Software & Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-#### Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-</p>
+**Cestrum** · Head of AI &nbsp;|&nbsp; Sep 2025 – Present
+`PyTorch` · `ISL/ASL Recognition` · `Edge Inference` · `Dataset Curation`
+Leading AI development for audio- and vision-based sign language systems · Directing model training pipelines, dataset curation, and real-time edge inference optimization · Managing the core AI & Data Science team
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hazz-Y&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hazz-Y&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hazz-Y&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
-</p>
+**SpectoV Assistive Technologies** · Product Development Intern &nbsp;|&nbsp; Jul 2025
+`Python` · `YOLO` · `OpenCV` · `TensorFlow` · `Raspberry Pi` · `Sensor Fusion`
+Designed hybrid assistive wearable combining sign language recognition and contextual scene awareness · Curated 12,000+ image dataset across 42 classes · Achieved ~370ms ASL latency via model quantization on Raspberry Pi · Integrated RGB-D cameras, IMU, and micro-OLED HUDs
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=818CF8&height=150&section=footer&text=Let's%20Build%20the%20Future%20%E2%9A%A1&fontSize=30&fontAlignY=70" alt="Footer" />
-</p>
+
+**Stemtec AI and Robotics Pvt Ltd** · AI & Robotics Intern &nbsp;|&nbsp; Jun – Jul 2025
+`ROS2` · `SLAM Toolbox` · `EKF` · `Python` · `C++`
+Built STEMBOT autonomous navigation system using ROS2 · SLAM pipeline at 0.05m resolution with 92% loop-closure accuracy · EKF multi-sensor fusion reducing localization drift by 50% · Obstacle avoidance with 95% success rate
+
+---
+
+**Algo Technologies Pvt. Ltd.** · Software Developer Intern &nbsp;|&nbsp; May – Jun 2025
+`MongoDB` · `Express.js` · `React.js` · `Node.js`
+Built and enhanced production MERN stack web applications · Designed RESTful API endpoints and reusable React component architecture · Contributed to scalable backend logic and MongoDB schema design
+
+---
+
+**VIT Chennai** · Summer Research Intern &nbsp;|&nbsp; Jul 2024
+`YOLO` · `OpenCV` · `Python` · `Pose Estimation`
+Developed real-time object detection and human pose estimation pipelines for CCTV security networks
+
+---
+
+<div align="center">
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hazz--Y-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Hazz-Y)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh0108yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh0108yadav/)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9922--9775-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9922-9775)
+
+<br/>
+
+</div>
