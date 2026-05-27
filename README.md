@@ -1,22 +1,5 @@
-<div>
-<table border="0" width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td valign="middle" width="72%">
-
-# **HARSH YADAV**
-
-### AI Engineer &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; Embedded Systems
-
-</td>
-<td align="right" valign="middle" width="28%">
-
-![16 Patents](https://img.shields.io/badge/16_Patents-4F46E5?style=for-the-badge&logoColor=white)<br/><br/>
-![SIH '25 Finalist](https://img.shields.io/badge/SIH_'25_Finalist-059669?style=for-the-badge)<br/><br/>
-![Techgium Top 7](https://img.shields.io/badge/Techgium_Top_7-DC2626?style=for-the-badge)
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="header.svg" width="850" alt="Harsh Yadav Profile Header" />
 </div>
 
 ---
