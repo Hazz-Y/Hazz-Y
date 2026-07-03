@@ -119,17 +119,17 @@ Leading AI development for audio- and vision-based sign language systems · Dire
 
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 SpectoV Assistive Technologies &nbsp;·&nbsp; Product Development Intern
-`Jul 2025` &nbsp;·&nbsp; `Python` · `YOLO` · `OpenCV` · `TensorFlow` · `Raspberry Pi` · `Sensor Fusion`
+#### 💼 Stemtec AI and Robotics Pvt Ltd &nbsp;·&nbsp; AI &amp; Robotics Intern
+`Dec 2025 – Jan 2026` &nbsp;·&nbsp; `ROS2` · `SLAM Toolbox` · `EKF` · `Python` · `C++`
 
-Designed hybrid assistive wearable combining sign language recognition and contextual scene awareness · Curated 12,000+ image dataset across 42 classes · Achieved ~370ms ASL latency via model quantization on Raspberry Pi · Integrated RGB-D cameras, IMU, and micro-OLED HUDs
+Built STEMBOT autonomous navigation system using ROS2 · SLAM pipeline at 0.05m resolution with 92% loop-closure accuracy · EKF multi-sensor fusion reducing localization drift by 50% · Obstacle avoidance with 95% success rate
 
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 Stemtec AI and Robotics Pvt Ltd &nbsp;·&nbsp; AI &amp; Robotics Intern
-`Jun – Jul 2025` &nbsp;·&nbsp; `ROS2` · `SLAM Toolbox` · `EKF` · `Python` · `C++`
+#### 💼 SpectoV Assistive Technologies &nbsp;·&nbsp; Product Development Intern
+`May – Jul 2025` &nbsp;·&nbsp; `Python` · `YOLO` · `OpenCV` · `TensorFlow` · `Raspberry Pi` · `Sensor Fusion`
 
-Built STEMBOT autonomous navigation system using ROS2 · SLAM pipeline at 0.05m resolution with 92% loop-closure accuracy · EKF multi-sensor fusion reducing localization drift by 50% · Obstacle avoidance with 95% success rate
+Designed hybrid assistive wearable combining sign language recognition and contextual scene awareness · Curated 12,000+ image dataset across 42 classes · Achieved ~370ms ASL latency via model quantization on Raspberry Pi · Integrated RGB-D cameras, IMU, and micro-OLED HUDs
 
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
