@@ -114,7 +114,7 @@ I engineer EKF-fused multi-sensor localization stacks for indoor autonomous plat
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/cestrum_logo_.jpg" width="48" align="left" />
+<img src="logos/cestrum_logo_.jpg" width="48" align="left" />
 
 #### Cestrum &nbsp;·&nbsp; Head of AI
 `Sep 2025 – Present` &nbsp;·&nbsp; `PyTorch` · `ISL/ASL Recognition` · `Edge Inference` · `Dataset Curation`
@@ -124,7 +124,7 @@ Leading AI development for audio- and vision-based sign language systems · Dire
 <br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/trans_bharat_aviation_logo.png" width="48" align="left" />
+<img src="logos/trans_bharat_aviation_logo.png" width="48" align="left" />
 
 #### Trans Bharat Aviation &nbsp;·&nbsp; Aviation (UAV) & MRO Intern
 `May – Jul 2026` &nbsp;·&nbsp; `Helicopter Fleet` · `MRO` · `Compliance` · `Inventory Workflows` · `Safety Standards`
@@ -134,7 +134,7 @@ Contributed to helicopter fleet technical support, maintenance planning, and MRO
 <br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/STEMTEC_LOGO.jpg" width="48" align="left" />
+<img src="logos/STEMTEC_LOGO.jpg" width="48" align="left" />
 
 #### Stemtec AI and Robotics Pvt Ltd &nbsp;·&nbsp; AI &amp; Robotics Intern
 `Dec 2025 – Jan 2026` &nbsp;·&nbsp; `ROS2` · `SLAM Toolbox` · `EKF` · `Python` · `C++`
@@ -144,7 +144,7 @@ Built STEMBOT autonomous navigation system using ROS2 · SLAM pipeline at 0.05m 
 <br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/spectov_logo.jpg" width="48" align="left" />
+<img src="logos/spectov_logo.jpg" width="48" align="left" />
 
 #### SpectoV Assistive Technologies &nbsp;·&nbsp; Product Development Intern
 `May – Jul 2025` &nbsp;·&nbsp; `Python` · `YOLO` · `OpenCV` · `TensorFlow` · `Raspberry Pi` · `Sensor Fusion`
@@ -154,7 +154,7 @@ Designed hybrid assistive wearable combining sign language recognition and conte
 <br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/algo_technologies_in_logo.jpg" width="48" align="left" />
+<img src="logos/algo_technologies_in_logo.jpg" width="48" align="left" />
 
 #### Algo Technologies Pvt. Ltd. &nbsp;·&nbsp; Software Developer Intern
 `May – Jun 2025` &nbsp;·&nbsp; `MongoDB` · `Express.js` · `React.js` · `Node.js`
@@ -164,7 +164,7 @@ Built and enhanced production MERN stack web applications · Designed RESTful AP
 <br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/vit_logo_.jpg" width="48" align="left" />
+<img src="logos/vit_logo_.jpg" width="48" align="left" />
 
 #### VIT Chennai &nbsp;·&nbsp; Summer Research Intern
 `Jul 2024` &nbsp;·&nbsp; `YOLO` · `OpenCV` · `Python` · `Pose Estimation`
