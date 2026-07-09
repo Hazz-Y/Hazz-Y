@@ -71,7 +71,7 @@ I engineer EKF-fused multi-sensor localization stacks for indoor autonomous plat
 <br/>
 
 <details>
-<summary><strong>📋 All 18 Patents (click to expand)</strong></summary>
+<summary><strong>📋 All 16 Patents (click to expand)</strong></summary>
 <br/>
 
 | # | Title |
@@ -114,45 +114,64 @@ I engineer EKF-fused multi-sensor localization stacks for indoor autonomous plat
 
 </div>
 
-#### 💼 Cestrum &nbsp;·&nbsp; Head of AI
+<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/cestrum_logo_.jpg" width="48" align="left" />
+
+#### Cestrum &nbsp;·&nbsp; Head of AI
 `Sep 2025 – Present` &nbsp;·&nbsp; `PyTorch` · `ISL/ASL Recognition` · `Edge Inference` · `Dataset Curation`
 
 Leading AI development for audio- and vision-based sign language systems · Directing model training pipelines, dataset curation, and real-time edge inference optimization · Managing the core AI &amp; Data Science team
 
+<br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 Trans Bharat Aviation Pvt. Ltd. &nbsp;·&nbsp; Aviation (UAV) & MRO Intern
-`May 2026 – Jul 2026` &nbsp;·&nbsp; `Helicopter Fleet` · `MRO` · `Airworthiness` · `Safety & Regulation`
+<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/trans_bharat_aviation_logo.png" width="48" align="left" />
 
-Contributed to helicopter fleet technical support, maintenance planning, and MRO operations in a live hangar environment · Assisted in tracking routine maintenance, documentation compliance, and inventory workflows for rotables · Monitored safety, quality control, and fleet airworthiness data
+#### Trans Bharat Aviation &nbsp;·&nbsp; Aviation (UAV) & MRO Intern
+`May – Jul 2026` &nbsp;·&nbsp; `Helicopter Fleet` · `MRO` · `Compliance` · `Inventory Workflows` · `Safety Standards`
 
+Contributed to helicopter fleet technical support, maintenance planning, and MRO operations in a live hangar environment, ensuring compliance with safety and airworthiness standards.
+
+<br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 Stemtec AI and Robotics Pvt Ltd &nbsp;·&nbsp; AI &amp; Robotics Intern
+<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/STEMTEC_LOGO.jpg" width="48" align="left" />
+
+#### Stemtec AI and Robotics Pvt Ltd &nbsp;·&nbsp; AI &amp; Robotics Intern
 `Dec 2025 – Jan 2026` &nbsp;·&nbsp; `ROS2` · `SLAM Toolbox` · `EKF` · `Python` · `C++`
 
 Built STEMBOT autonomous navigation system using ROS2 · SLAM pipeline at 0.05m resolution with 92% loop-closure accuracy · EKF multi-sensor fusion reducing localization drift by 50% · Obstacle avoidance with 95% success rate
 
+<br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 SpectoV Assistive Technologies &nbsp;·&nbsp; Product Development Intern
+<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/spectov_logo.jpg" width="48" align="left" />
+
+#### SpectoV Assistive Technologies &nbsp;·&nbsp; Product Development Intern
 `May – Jul 2025` &nbsp;·&nbsp; `Python` · `YOLO` · `OpenCV` · `TensorFlow` · `Raspberry Pi` · `Sensor Fusion`
 
 Designed hybrid assistive wearable combining sign language recognition and contextual scene awareness · Curated 12,000+ image dataset across 42 classes · Achieved ~370ms ASL latency via model quantization on Raspberry Pi · Integrated RGB-D cameras, IMU, and micro-OLED HUDs
 
+<br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 Algo Technologies Pvt. Ltd. &nbsp;·&nbsp; Software Developer Intern
+<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/algo_technologies_in_logo.jpg" width="48" align="left" />
+
+#### Algo Technologies Pvt. Ltd. &nbsp;·&nbsp; Software Developer Intern
 `May – Jun 2025` &nbsp;·&nbsp; `MongoDB` · `Express.js` · `React.js` · `Node.js`
 
 Built and enhanced production MERN stack web applications · Designed RESTful API endpoints and reusable React component architecture · Contributed to scalable backend logic and MongoDB schema design
 
+<br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
-#### 💼 VIT Chennai &nbsp;·&nbsp; Summer Research Intern
+<img src="https://raw.githubusercontent.com/Hazz-Y/harsh-portfolio/main/public/logos/vit_logo_.jpg" width="48" align="left" />
+
+#### VIT Chennai &nbsp;·&nbsp; Summer Research Intern
 `Jul 2024` &nbsp;·&nbsp; `YOLO` · `OpenCV` · `Python` · `Pose Estimation`
 
 Developed real-time object detection and human pose estimation pipelines for CCTV security networks
+
+<br clear="left"/>
 
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
