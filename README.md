@@ -128,9 +128,9 @@ Leading AI development for audio- and vision-based sign language systems · Dire
 <img src="logos/trans_bharat_aviation_logo.png" width="48" align="left" />
 
 #### Trans Bharat Aviation &nbsp;·&nbsp; Aviation (UAV) & MRO Intern
-`May – Jul 2026` &nbsp;·&nbsp; `Helicopter Fleet` · `MRO` · `Compliance` · `Inventory Workflows` · `Safety Standards`
+`May – Jul 2026` &nbsp;·&nbsp; `UAV Flight Ops` · `Helicopter Fleet` · `MRO` · `Airworthiness Compliance` · `Quality Control`
 
-Contributed to helicopter fleet technical support, maintenance planning, and MRO operations in a live hangar environment, ensuring compliance with safety and airworthiness standards.
+Supported UAV flight operations and pre-flight testing alongside helicopter fleet MRO planning in a live hangar environment · Reviewed technical documentation for airworthiness compliance across UAV and helicopter assets · Tracked rotable-component inventory and applied quality control and regulatory standards during fleet inspections
 
 <br clear="left"/>
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
