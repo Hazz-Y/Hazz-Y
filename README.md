@@ -66,7 +66,7 @@ I engineer EKF-fused multi-sensor localization stacks for indoor autonomous plat
 
 | Intellectual Property | Design Innovations | Registry |
 | :--- | :--- | :---: |
-| **19 Utility Patents** <br/> Filed/Issued across AI-driven systems, computer vision, embedded technologies, and assistive hardware | **1 Design Patent** <br/> Filed for the Terrain Scout multi-operational defence rover | [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9922--9775-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white)](https://orcid.org/0009-0008-9922-9775) |
+| **18 Utility Patents** <br/> Filed/Issued across AI-driven systems, computer vision, embedded technologies, and assistive hardware | **1 Design Patent** <br/> Filed for the Terrain Scout multi-operational defence rover | [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9922--9775-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white)](https://orcid.org/0009-0008-9922-9775) |
 
 <br/>
 
