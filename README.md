@@ -8,7 +8,7 @@ B.Tech student at VIT Chennai, building at the intersection of autonomous roboti
 
 I engineer EKF-fused multi-sensor localization stacks for indoor autonomous platforms, deploy quantized CV models on resource-constrained edge hardware, and architect real-time sign language recognition systems from dataset curation through on-device inference. My work spans ROS2-based SLAM pipelines, assistive wearables with RGB-D and IMU fusion, autonomous surveillance drones, and full-stack MERN web applications — each built to function under real hardware constraints and production latency requirements.
 
-**18 Patents Filed/Issued &nbsp;·&nbsp; ₹6.45L+ in Research Grants &nbsp;·&nbsp; SIH '25 National Finalist &nbsp;·&nbsp; Techgium® Top 7 / 62K+ &nbsp;·&nbsp; IRoC Top ~100 / 5K**
+**19 Patents Filed/Issued &nbsp;·&nbsp; ₹6.45L+ in Research Grants &nbsp;·&nbsp; SIH '25 National Finalist &nbsp;·&nbsp; Techgium® Top 7 / 62K+ &nbsp;·&nbsp; IRoC Top ~100 / 5K**
 <p align="center"><img src="separator.svg" width="850" alt="separator" /></p>
 
 | Robotics &amp; Perception | AI &amp; Edge Systems | Full-Stack &amp; Embedded |
@@ -66,34 +66,35 @@ I engineer EKF-fused multi-sensor localization stacks for indoor autonomous plat
 
 | Intellectual Property | Design Innovations | Registry |
 | :--- | :--- | :---: |
-| **17 Utility Patents** <br/> Filed/Issued across AI-driven systems, computer vision, embedded technologies, and assistive hardware | **1 Design Patent** <br/> Filed for the Terrain Scout multi-operational defence rover | [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9922--9775-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white)](https://orcid.org/0009-0008-9922-9775) |
+| **19 Utility Patents** <br/> Filed/Issued across AI-driven systems, computer vision, embedded technologies, and assistive hardware | **1 Design Patent** <br/> Filed for the Terrain Scout multi-operational defence rover | [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9922--9775-A6CE39?style=flat-square&amp;logo=orcid&amp;logoColor=white)](https://orcid.org/0009-0008-9922-9775) |
 
 <br/>
 
 <details>
-<summary><strong>📋 All 16 Patents (click to expand)</strong></summary>
+<summary><strong>📋 All 19 Patents (click to expand)</strong></summary>
 <br/>
 
 | # | Title |
 |:-:|:------|
-| 01 | [Retrofittable System and Method for Energy Harvesting, Biomechanical Analytics, and Adaptive Training in Exercise Equipment](https://drive.google.com/file/d/1Mbw0hQ18ci5zyIHvT4vWFC24bmduVisV/view) |
-| 02 | [Smart Autonomous Dustbin System for Cleaning and Waste Segregation](https://drive.google.com/file/d/14IId4WeXfhwACCpzgLC1lbcda6MkqMyF/view) |
-| 03 | [An Infant Cradle Device](https://drive.google.com/file/d/1x4j-qRUYNtfkJXBzbUsvAQN82K_yCkIY/view) |
-| 04 | [Retrofittable Dip-Type Multi-Spectral Sensor System for Real-Time Food Analysis](https://drive.google.com/file/d/1N6Bywqj0KwB8cBrOe5HQxFGtv-VveSKT/view) |
-| 05 | [Wearable System for Predicting & Managing Body-Focused Repetitive Behavior (BFRB)](https://drive.google.com/file/d/15Zzb3sPhcQmLw4M2nXiuQxDJyM5aTv2q/view) |
-| 06 | [System and Method for Selective Audio Capture and Processing](https://drive.google.com/file/d/1LGIMFz0GtB7UJJ4WwqIl8xVTw_MsDo3f/view) |
-| 07 | [System and Method for Radiation Mapping in Hazardous Environments](https://drive.google.com/file/d/1a5IAwgrdtPIw4ENmnKA9AtVdaMh0zgYa/view) |
-| 08 | [Apparatus and Method for Automatic Medicine Dispensing](https://drive.google.com/file/d/1ZgNP9iV1C8o7dMSKctsg9uKn7t9LwGf8/view) |
-| 09 | [Navigation Assistance System for the Visually Impaired](https://drive.google.com/file/d/16YlZeFuseiz4nhdfkjdVB8TN0GOiq_x2/view) |
-| 10 | [System and Method for Deploying an Aerial Communication Network](https://drive.google.com/file/d/1DtkaXDcbHD0A29tmIxCDL9m4NSXCqzl7/view) |
-| 11 | [System to Circulate Information in Educational Campus](https://drive.google.com/file/d/1XqNCiN6B8IKw2QaiiVacWpUOEbsNE3d1/view) |
-| 12 | [System and Method of Fabric Durability Assessment](https://drive.google.com/file/d/1GDThuhus87DviBFfW3nxPA-Y0vN9weZq/view) |
-| 13 | [Autonomous Detection, Extraction & Treatment of Foam from Water Surface](https://drive.google.com/file/d/1f-EWsGTJEfNv_RtWHN8OwDmBvOOMzuWV/view) |
-| 14 | [Modular Smart Eyewear for Breathing Assistance and Temple Massage](https://drive.google.com/file/d/1ESrxrJUxhK6Um3-iuE6ac3vC9YdBowwf/view) |
-| 15 | [Retrofittable Vehicle Control System for Command-Based Operation](https://drive.google.com/file/d/1_FlcTPJFMtgnUWwJKkY8KA5cLLKrrlNgB/view) |
-| 16 | [Calibration Apparatus and Method Thereof](https://drive.google.com/file/d/18KsxeTLleVaidtA6TL7iIixa_EddCOSA/view) |
-| 17 | [Adaptive Modular Robotic System for Search and Rescue Operations](https://drive.google.com/file/d/1d4tNxUDk2urr9n-3_pSt5_lPuCAXCs5t/view) |
-| 18 | [Defence Rover: Terrain Scout *(Design Patent)*](https://drive.google.com/file/d/1qqsEQgbDlMflW9pmhXs7p6vs29bn_GGG/view) |
+| 01 | [Autonomous Vehicle for Environmental Monitoring and Infrastructure Inspection](https://drive.google.com/file/d/17AORsw9jktqkuwX2ADiO6XF-yvz_fUGd/view) |
+| 02 | [Retrofittable System and Method for Energy Harvesting, Biomechanical Analytics, and Adaptive Training in Exercise Equipment](https://drive.google.com/file/d/1Mbw0hQ18ci5zyIHvT4vWFC24bmduVisV/view) |
+| 03 | [Smart Autonomous Dustbin System for Cleaning and Waste Segregation](https://drive.google.com/file/d/14IId4WeXfhwACCpzgLC1lbcda6MkqMyF/view) |
+| 04 | [An Infant Cradle Device](https://drive.google.com/file/d/1x4j-qRUYNtfkJXBzbUsvAQN82K_yCkIY/view) |
+| 05 | [Retrofittable Dip-Type Multi-Spectral Sensor System for Real-Time Food Analysis](https://drive.google.com/file/d/1N6Bywqj0KwB8cBrOe5HQxFGtv-VveSKT/view) |
+| 06 | [Wearable System for Predicting & Managing Body-Focused Repetitive Behavior (BFRB)](https://drive.google.com/file/d/15Zzb3sPhcQmLw4M2nXiuQxDJyM5aTv2q/view) |
+| 07 | [System and Method for Selective Audio Capture and Processing](https://drive.google.com/file/d/1LGIMFz0GtB7UJJ4WwqIl8xVTw_MsDo3f/view) |
+| 08 | [System and Method for Radiation Mapping in Hazardous Environments](https://drive.google.com/file/d/1a5IAwgrdtPIw4ENmnKA9AtVdaMh0zgYa/view) |
+| 09 | [Apparatus and Method for Automatic Medicine Dispensing](https://drive.google.com/file/d/1ZgNP9iV1C8o7dMSKctsg9uKn7t9LwGf8/view) |
+| 10 | [Navigation Assistance System for the Visually Impaired](https://drive.google.com/file/d/16YlZeFuseiz4nhdfkjdVB8TN0GOiq_x2/view) |
+| 11 | [System and Method for Deploying an Aerial Communication Network](https://drive.google.com/file/d/1DtkaXDcbHD0A29tmIxCDL9m4NSXCqzl7/view) |
+| 12 | [System to Circulate Information in Educational Campus](https://drive.google.com/file/d/1XqNCiN6B8IKw2QaiiVacWpUOEbsNE3d1/view) |
+| 13 | [System and Method of Fabric Durability Assessment](https://drive.google.com/file/d/1GDThuhus87DviBFfW3nxPA-Y0vN9weZq/view) |
+| 14 | [Autonomous Detection, Extraction & Treatment of Foam from Water Surface](https://drive.google.com/file/d/1f-EWsGTJEfNv_RtWHN8OwDmBvOOMzuWV/view) |
+| 15 | [Modular Smart Eyewear for Breathing Assistance and Temple Massage](https://drive.google.com/file/d/1ESrxrJUxhK6Um3-iuE6ac3vC9YdBowwf/view) |
+| 16 | [Retrofittable Vehicle Control System for Command-Based Operation](https://drive.google.com/file/d/1_FlcTPJFMtgnUWwJKkY8KA5cLLKrrlNgB/view) |
+| 17 | [Calibration Apparatus and Method Thereof](https://drive.google.com/file/d/18KsxeTLleVaidtA6TL7iIixa_EddCOSA/view) |
+| 18 | [Adaptive Modular Robotic System for Search and Rescue Operations](https://drive.google.com/file/d/1d4tNxUDk2urr9n-3_pSt5_lPuCAXCs5t/view) |
+| 19 | [Defence Rover: Terrain Scout *(Design Patent)*](https://drive.google.com/file/d/1qqsEQgbDlMflW9pmhXs7p6vs29bn_GGG/view) |
 
 </details>
 
